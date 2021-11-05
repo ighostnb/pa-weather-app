@@ -1,0 +1,12 @@
+{
+    "title": "Weather",
+    "internet_error": "To view the weather you need an internet connection",
+    "monday": "Mon",
+    "tuesday": "Tue",
+    "wednesday": "Wed",
+    "thursday": "Thu",
+    "friday": "Fr",
+    "saturday": "Sat",
+    "sunday": "Sun",
+    "hour": "hours"
+}

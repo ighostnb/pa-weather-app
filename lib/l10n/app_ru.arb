@@ -1,0 +1,12 @@
+{
+    "title": "Погода",
+    "internet_error": "Чтобы просмотреть погоду вам необходимо интернет соединение",
+    "monday": "Пн",
+    "tuesday": "Вт",
+    "wednesday": "Ср",
+    "thursday": "Чт",
+    "friday": "Пт",
+    "saturday": "Сб",
+    "sunday": "Вс",
+    "hour": "часов"
+}
